@@ -3,12 +3,12 @@ import type { Route } from "./+types/home";
 import { usePuterStore } from "~/lib/puter";
 import { useLocation, useNavigate } from "react-router";
 
-// export function meta({}: Route.MetaArgs) {
-//   return [
-//     { title: "AI Resume Analyzer" },
-//     { name: "description", content: "Smart feedback for your future job" },
-//   ];
-// }
+export function meta({}: Route.MetaArgs) {
+  return [
+    { title: "AI Resume Analyzer" },
+    { name: "description", content: "Smart feedback for your future job" },
+  ];
+}
 
 export default function Auth() {
   const { isLoading, auth } = usePuterStore();
