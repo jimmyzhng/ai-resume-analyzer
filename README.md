@@ -2,6 +2,8 @@
 
 A smart resume analysis application that provides AI-powered feedback to help you optimize your resume for Applicant Tracking Systems (ATS) and improve your job application success rate.
 
+Try this app out [here](https://puter.com/app/jimmys-ai-resume-analyzer)! A Puter account is required and free credits are provided for demo purposes.
+
 ## 🚀 Features
 
 - **AI-Powered Resume Analysis**: Get detailed feedback on your resume using advanced AI analysis
